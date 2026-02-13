@@ -4,3 +4,5 @@ git ternyata gak sesulit itu
 
 
 skarng lagi cobain branch
+
+ini perubahan langsung dari github
